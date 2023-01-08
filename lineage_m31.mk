@@ -37,10 +37,10 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
 ## Device identifier, this must come after all inclusions
-PRODUCT_DEVICE := m31
-PRODUCT_NAME := lineage_m31
+PRODUCT_DEVICE := m21
+PRODUCT_NAME := lineage_m21
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-M315F
+PRODUCT_MODEL := SM-M215F
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_SHIPPING_API_LEVEL := 29
 

@@ -18,7 +18,7 @@
 $(call inherit-product, device/samsung/m31-common/common.mk)
 
 # Inherit proprietary files
-$(call inherit-product, vendor/samsung/m31/m31-vendor.mk)
+$(call inherit-product, vendor/samsung/m21/m21-vendor.mk)
 
 # Setup dalvik vm configs
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
