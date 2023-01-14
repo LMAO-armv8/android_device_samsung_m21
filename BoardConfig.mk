@@ -14,7 +14,7 @@
 # limitations under the License.
 
 ## Inherit from the common tree
-include device/samsung/m21-common/BoardConfigCommon.mk
+include device/samsung/exynos9611-common/BoardConfigCommon.mk
 
 ## Inherit from the proprietary configuration
 include vendor/samsung/m21/BoardConfigVendor.mk
