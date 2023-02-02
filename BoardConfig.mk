@@ -27,7 +27,7 @@ TARGET_OTA_ASSERT_DEVICE := m21,m21dd,m21nsxx
 DEXPREOPT_GENERATE_APEX_IMAGE := true
 
 ## Kernel Defconfig
-TARGET_KERNEL_CONFIG := 
+TARGET_KERNEL_CONFIG := exynos9610-m21dd_defconfig
 
 
 ## Manifest
